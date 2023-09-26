@@ -22,4 +22,14 @@ a {
 img {
     height: auto;
     width: 400px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.content {
+    margin: 2% 20%;
+}
+
+.mini-title {
+    text-align: center;
 }
